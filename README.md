@@ -1,6 +1,6 @@
 # Datasets for Sentiment Analysis
 
-A repo of benchmark datasets for sentiment analysis: 
+A repo of benchmark datasets for sentiment analysis. Some of the datasets are uploaded in this repo for my coding purposes.
 
 ## IMDb dataset
 
